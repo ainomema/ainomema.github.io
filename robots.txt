@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ainomema.github.io/sitemap
+Sitemap: https://ainomema.github.io/app/sitemap
+Sitemap: https://ainomema.github.io/assets/sitemap
+Sitemap: https://ainomema.github.io/css/sitemap
+Sitemap: https://ainomema.github.io/includes/sitemap
+Sitemap: https://ainomema.github.io/item/sitemap
+Sitemap: https://ainomema.github.io/src/sitemap
